@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Jose Zambrano\r section 01\r week 02 material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jochx89/mtm6330-week02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jochx89/mtm6330-week02/issues"
+  },
+  "homepage": "https://github.com/Jochx89/mtm6330-week02#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
